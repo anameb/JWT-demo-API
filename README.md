@@ -18,6 +18,11 @@
 ![image](https://user-images.githubusercontent.com/88283220/171547272-61f79c7b-fc75-4583-9c5f-646eec00a949.png)
 
 
+# Base de datos Mongodb 
+
+![image](https://user-images.githubusercontent.com/88283220/171548230-c44832aa-b6e9-436f-b981-07c81d20d924.png)
+
+
   # Pruebas en postman.  
   
   # se crean usuarios. 
